@@ -8,15 +8,10 @@
 
 ## Table of Contents
 
-- [Inspiration & Concept](#inspiration--concept)
 - [Screenshots](#screenshots)
 - [How to Play](#how-to-play)
-- [Installation](#installation)
 - [Controls](#controls)
 - [Scoring](#scoring)
-- [Development](#development)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Screenshots
 
